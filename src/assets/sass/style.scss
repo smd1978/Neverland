@@ -1,0 +1,8 @@
+@import "vars";
+@import "blocks/header";
+@import "blocks/btn";
+
+body {
+    margin: 10px;
+    color: $primecolor;
+}
